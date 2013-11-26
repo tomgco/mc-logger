@@ -1,9 +1,3 @@
-## mc-logger
-
-The peoples null logger:
-
-```javascript
-
 function noop() {}
 
 module.exports =
@@ -12,7 +6,5 @@ module.exports =
   , error: noop
   , warn: noop
   , debug: noop
+  , trace: noop
   }
-
-
-```

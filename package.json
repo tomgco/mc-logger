@@ -1,0 +1,24 @@
+{
+  "name": "mc-logger",
+  "version": "0.0.0",
+  "description": "Like the nuggets - no meat. (Its not a Logger)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tomgco/mc-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "noop",
+    "tests"
+  ],
+  "author": "Tom Gallacher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomgco/mc-logger/issues"
+  },
+  "homepage": "https://github.com/tomgco/mc-logger"
+}

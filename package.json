@@ -1,6 +1,6 @@
 {
   "name": "mc-logger",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Like the nuggets - no meat. (Its not a Logger)",
   "main": "index.js",
   "scripts": {
